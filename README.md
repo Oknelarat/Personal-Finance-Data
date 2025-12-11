@@ -1,2 +1,2 @@
-# Personal-Finance-Data-
+# Personal-Finance-Data
 Tech stack:
